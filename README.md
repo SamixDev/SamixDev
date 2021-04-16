@@ -1,5 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Samer!
+[![Twitter Follow](https://img.shields.io/twitter/follow/samix_94?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=samix_94)
+![GitHub followers](https://img.shields.io/github/followers/SamixDev?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/samix_94?style=social)
 
+Software Engineer specialized in Java & JavaScript creating beautiful Android and Web apps.
+I create cool crypto related apps and bots, and addicted to querying the magnificent Ethereum blockchain.
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" alt="ObjectiveC" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VsCode" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+
+---
+
+
+📘 Latest Projects
+
+- [Squareco](https://squareco.co/)
+- [Nifty NFTs](https://twitter.com/nifty_nfts)
+- [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
+
+---
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamixDev&hide=html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SamixDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamixDev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SamixDev/SamixDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
