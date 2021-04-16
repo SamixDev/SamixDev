@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Samer!
 [![Twitter Follow](https://img.shields.io/twitter/follow/samix_94?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=samix_94)
-![GitHub followers](https://img.shields.io/github/followers/SamixDev?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/samix_94?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/SamixDev?style=social)](https://github.com/SamixDev)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/samix_94?style=social)](https://www.reddit.com/user/Samix_94)
 
 Software Engineer specialized in Java & JavaScript creating beautiful Android and Web apps.
 I create cool crypto related apps and bots, and addicted to querying the magnificent Ethereum blockchain.
