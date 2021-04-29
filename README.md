@@ -3,8 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/SamixDev?style=social)](https://github.com/SamixDev)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/samix_94?style=social)](https://www.reddit.com/user/Samix_94)
 
-Software Engineer & Hardware junkie ^^
-Specialized in Java & JavaScript creating beautiful Android and Web apps.
+Software Engineer & Hardware junkie ^^<br>
+Specialized in Java & JavaScript creating beautiful Android and Web apps.<br>
 I create cool crypto related apps and bots, and addicted to querying the magnificent Ethereum blockchain.
 
 🧰 Toolbox
