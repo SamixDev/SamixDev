@@ -19,7 +19,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 - [Squareco](https://squareco.co/)
 - [Nifty NFTs](https://twitter.com/nifty_nfts)
 - [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
-
+- [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet)
 ---
 ## &#x1f4c8; My GitHub Stats
 
