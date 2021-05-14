@@ -17,6 +17,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 📘 Latest Projects
 
 - [Squareco](https://squareco.co/)
+- [Balanced Watch](https://balnwatch.xyz/)
 - [Nifty NFTs](https://twitter.com/nifty_nfts)
 - [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
 - [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet)
