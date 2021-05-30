@@ -17,10 +17,11 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 📘 Latest Projects
 
 - [Squareco](https://squareco.co/)
-- [Balanced Watch](https://balnwatch.xyz/)
-- [Nifty NFTs](https://twitter.com/nifty_nfts)
+- [1inch CHI GasToken](https://1inchstats.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
+- [Balanced Watch](https://balnwatch.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
+- [Nifty NFTs](https://twitter.com/nifty_nfts) Telegram Bot (collaboration with [Snowdot](https://github.com/snowdot))
 - [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
-- [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet)
+- [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet) Chrome Extension
 ---
 ## &#x1f4c8; My GitHub Stats
 
