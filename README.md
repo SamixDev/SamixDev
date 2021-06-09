@@ -21,6 +21,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 - [Balanced Watch](https://balnwatch.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
 - [Nifty NFTs](https://twitter.com/nifty_nfts) Telegram Bot (collaboration with [Snowdot](https://github.com/snowdot))
 - [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
+- [OneMillionWallet AVAX](https://walletscan.xyz/) WebApp (collaboration with [Snowdot](https://github.com/snowdot))
 - [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet) Chrome Extension
 ---
 ## &#x1f4c8; My GitHub Stats
