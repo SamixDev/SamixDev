@@ -17,6 +17,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 📘 Latest Projects
 
 - [Squareco](https://squareco.co/)
+- [SpiritView](https://spiritview.moonlabs.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
 - [1inch CHI GasToken](https://1inchstats.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
 - [Balanced Watch](https://balnwatch.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
 - [Nifty NFTs](https://twitter.com/nifty_nfts) Twitter Bot (collaboration with [Snowdot](https://github.com/snowdot))
