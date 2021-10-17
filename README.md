@@ -23,6 +23,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 - [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
 - [OneMillionWallet AVAX](https://walletscan.moonlabs.xyz/) WebApp (collaboration with [Snowdot](https://github.com/snowdot))
 - [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet) Chrome Extension
+- [SquareCo](https://squareco.moonlabs.xyz/)
 ---
 ## &#x1f4c8; My GitHub Stats
 
