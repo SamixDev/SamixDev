@@ -16,12 +16,13 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 
 📘 Latest Projects
 
-- [SpiritView](https://spiritview.moonlabs.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
-- [1inch CHI GasToken](https://1inchstats.moonlabs.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
-- [Balanced Watch](https://balnwatch.xyz/) (collaboration with [Snowdot](https://github.com/snowdot))
-- [Nifty NFTs](https://twitter.com/nifty_nfts) Twitter Bot (collaboration with [Snowdot](https://github.com/snowdot))
+- [NFT on BSC](https://nftonbsc.com/)
+- [SpiritView](https://spiritview.moonlabs.xyz/)
+- [1inch CHI GasToken](https://1inchstats.moonlabs.xyz/)
+- [Balanced Watch](https://balnwatch.xyz/)
+- [Nifty NFTs](https://twitter.com/nifty_nfts) Twitter Bot
 - [Mining Tutorial](https://samixdev.github.io/Mining-Tutorial/)
-- [OneMillionWallet AVAX](https://walletscan.moonlabs.xyz/) WebApp (collaboration with [Snowdot](https://github.com/snowdot))
+- [OneMillionWallet AVAX](https://walletscan.moonlabs.xyz/)
 - [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet) Chrome Extension
 - [SquareCo](https://squareco.moonlabs.xyz/)
 ---
