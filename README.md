@@ -16,6 +16,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 
 📘 Latest Projects
 
+- [EtherLoop](https://etherloop.moonlabs.xyz/)
 - [NFT on BSC](https://nftonbsc.com/)
 - [SpiritView](https://spiritview.moonlabs.xyz/)
 - [1inch CHI GasToken](https://1inchstats.moonlabs.xyz/)
