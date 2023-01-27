@@ -14,7 +14,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 ---
 
 
-📘 Latest Projects
+<!-- 📘 Latest Projects
 
 - [HelloWorld](https://helloworld.social/)
 - [EtherLoop](https://etherloop.moonlabs.xyz/)
@@ -27,7 +27,7 @@ I create cool crypto related apps and bots, and addicted to querying the magnifi
 - [OneMillionWallet AVAX](https://walletscan.moonlabs.xyz/)
 - [OneMillionWallet AVAX](https://github.com/SamixDev/OneMillionWallet) Chrome Extension
 - [SquareCo](https://squareco.moonlabs.xyz/)
----
+--- -->
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamixDev&hide=html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
